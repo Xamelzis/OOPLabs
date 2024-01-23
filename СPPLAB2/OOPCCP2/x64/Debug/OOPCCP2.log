@@ -1,0 +1,39 @@
+﻿  DecString.cpp
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.cpp(5,17): error C2011: DecString: переопределение типа "class"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.h(2,7): message : см. объявление "DecString"
+  Factory.cpp
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.cpp(5,17): error C2011: DecString: переопределение типа "class"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.h(2,7): message : см. объявление "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\Factory.cpp(17,29): error C2027: использование неопределенного типа "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.h(2,7): message : см. объявление "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\Factory.cpp(25,9): warning C4150: удаление указателя на неполный тип "DecString"; деструктор не вызван
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.h(2,7): message : см. объявление "DecString"
+  OOPCCP2.cpp
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.cpp(5,17): error C2011: DecString: переопределение типа "class"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.h(2,7): message : см. объявление "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\SymbString.cpp(5,18): error C2011: SymbString: переопределение типа "class"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\SymbString.cpp(5,7): message : см. объявление "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\Factory.cpp(13,30): error C2027: использование неопределенного типа "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\SymbString.cpp(5,7): message : см. объявление "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\Factory.cpp(17,29): error C2027: использование неопределенного типа "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.cpp(5,7): message : см. объявление "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\Factory.cpp(21,9): warning C4150: удаление указателя на неполный тип "SymbString"; деструктор не вызван
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\SymbString.cpp(5,7): message : см. объявление "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\Factory.cpp(25,9): warning C4150: удаление указателя на неполный тип "DecString"; деструктор не вызван
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.cpp(5,7): message : см. объявление "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\OOPCCP2.cpp(10,26): error C2027: использование неопределенного типа "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\SymbString.cpp(5,7): message : см. объявление "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\OOPCCP2.cpp(12,32): error C2027: использование неопределенного типа "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\SymbString.cpp(5,7): message : см. объявление "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\OOPCCP2.cpp(14,29): error C2027: использование неопределенного типа "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\SymbString.cpp(5,7): message : см. объявление "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\OOPCCP2.cpp(24,39): error C2027: использование неопределенного типа "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\SymbString.cpp(5,7): message : см. объявление "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\OOPCCP2.cpp(25,42): error C2027: использование неопределенного типа "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\SymbString.cpp(5,7): message : см. объявление "SymbString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\OOPCCP2.cpp(27,38): error C2027: использование неопределенного типа "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.cpp(5,7): message : см. объявление "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\OOPCCP2.cpp(28,41): error C2027: использование неопределенного типа "DecString"
+C:\Users\Xamelzi\Desktop\OOP\СPPLAB2\OOPCCP2\DecString.cpp(5,7): message : см. объявление "DecString"
+  SymbString.cpp
+  Создание кода...
